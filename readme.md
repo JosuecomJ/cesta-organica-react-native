@@ -1,4 +1,4 @@
-# Projeto Orgs Cesta
+# Projeto  Cesta Organica
 
 Este é um projeto React Native que apresenta uma cesta de verduras.
 
@@ -26,11 +26,11 @@ Para executar este projeto, você precisa ter o Node.js e o Expo CLI instalados 
 
 Depois de clonar o repositório, você pode instalar as dependências com:
 
-```sh
+```
 npm install
-
+````
 Em seguida, você pode iniciar o servidor de desenvolvimento com:
-
+````
 npm start
-
+````
 Isso iniciará o servidor de desenvolvimento do Expo, e você pode abrir o aplicativo em um emulador ou em seu dispositivo físico.
